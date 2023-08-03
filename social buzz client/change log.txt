@@ -1,0 +1,7 @@
+1) deleting url column  from content sheet.
+2) Making sure their is no missing value in content sheet
+3)Cleaning category rows of content sheet.
+4) renaming type column of content sheet  as content type 
+5) remove missing values from reaction sheet
+6) Deleting User_ID from reaction sheet
+7) Deleting User_ID from content sheet
